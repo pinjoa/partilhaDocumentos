@@ -9,8 +9,10 @@ Assumindo que estás a utilizar no VSCode o terminal com a _shell_ tradicional d
 Necessitas de alterar as configurações do VSCode e pesquisar por _terminal.integrated_ depois só necessitas de editar o ficheiro de configuração _settings.json_ e completar para as seguintes configurações, caso queiras seguir a minha sugestão de configuração:
 
 ```
+    ...
     "terminal.integrated.shell.windows": "C:\\Windows\\System32\\cmd.exe",
     "terminal.integrated.shellArgs.windows": ["/K", "chcp 65001"],
+    ...
 ```
 
 **NOTA**:
