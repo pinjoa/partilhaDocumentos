@@ -2,7 +2,7 @@
 
 ## Descrição
 
-É um espaço de partilha de informações uteis para quem procura mais conhecimentos...
+É um espaço de partilha de informações úteis para quem procura mais conhecimentos...
 
 ## Como utilizar
 
@@ -19,4 +19,5 @@ Todas as sugestões para melhorar são aceites.
 
 ## Licença
 
-Copyright (MIT) 2020 © Joao Carlos Pinto
+Copyright (c) 2020, João Carlos Pinto
+BSD-3-Clause License

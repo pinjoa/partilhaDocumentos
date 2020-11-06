@@ -2,7 +2,7 @@
 
 ## Descrição
 
-É um espaço de partilha de informações úteis para quem procura mais conhecimentos relacionados com o [MinGW](http://www.mingw.org/)
+É um espaço de partilha de informações úteis para quem procura mais conhecimentos relacionados com o Doxygen ([Doxygen](https://www.doxygen.nl/))
 
 ## Contribuir
 
