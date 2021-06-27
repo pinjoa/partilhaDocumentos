@@ -10,5 +10,5 @@ Todas as sugestões para melhorar são aceites.
 
 ## Licença
 
-Copyright (c) 2020, João Carlos Pinto
+Copyright (c) 2021, João Carlos Pinto
 BSD-3-Clause License
