@@ -2,7 +2,7 @@
 
 ## Descrição
 
-É um espaço de partilha de informações úteis para quem procura mais conhecimentos...
+É um espaço de partilha de informações úteis para quem procura mais conhecimentos.
 
 ## Como utilizar
 
@@ -14,6 +14,8 @@ git remote add origin https://github.com/pinjoa/partilhaDocumentos.git
 ```
 
 ## Contribuir
+
+Tens algum desafio a colocar?
 
 Todas as sugestões para melhorar são aceites.
 

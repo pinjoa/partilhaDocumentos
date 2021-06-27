@@ -1,8 +1,8 @@
-# Configurar o terminal do VSCode para carateres Portugueses
+# Configurar o terminal CMD do VSCode para carateres Portugueses
 
 ## Descrição
 
-Assumindo que estás a utilizar no VSCode o terminal com a _shell_ tradicional do windows também conhecida por "_Linha de comandos_"
+Assumindo que estás a utilizar no VSCode o terminal CMD com a _shell_ tradicional do windows também conhecida por "_Linha de comandos_"
 
 
 
