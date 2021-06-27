@@ -5,7 +5,8 @@
 
 Editores utilizados
 ```
-    utilizo este local para centralizar todo o código que partilho com os meus colegas de curso
+lista com alguns editores que utilizo...
+... nesta lista o editor que permite maior produtividade até este momento é o Rider
 ```
 
 
