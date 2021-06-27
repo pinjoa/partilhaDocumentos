@@ -18,7 +18,7 @@
 int main(){
     
     printf("Hello world!...\ninstruções de preenchimento do template!...\n");
-	printf("substituir <nome> pelo nome\nex: João Carlos");
+    printf("substituir <nome> pelo nome\nex: João Carlos");
     printf("NOTA: fazer a substituição de todos os blocos de texto <...>\n");
 
     return 0;
